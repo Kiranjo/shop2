@@ -1,0 +1,19 @@
+{
+  "name": "shop2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shopsFileApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node shopsFileApi.js"
+  },
+  "keywords": [
+    "node",
+    "build"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
